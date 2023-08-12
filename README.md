@@ -1,8 +1,7 @@
 ### Olá, eu sou alissonf94 😀
 
--👨‍💻Hoje desenvolvo projetos back end
+-👨‍💻Futuro dev fullstack
 
--🧑‍🎓Estudo as linguagens java e python
 ##
 ![alissonf94 GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonf94&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonf94&theme=tokyonight)](https://github.com/alissonf94/github-readme-stats)
